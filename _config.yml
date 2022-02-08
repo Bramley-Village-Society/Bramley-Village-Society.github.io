@@ -45,8 +45,8 @@ copyright: "(c) 2017-{currentYear} BVS"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description  1
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://JoeSenDev/github.io"
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: 
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
