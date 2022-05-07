@@ -18,7 +18,7 @@
 
 {%- include functions.html func='get_article_words' -%}
 {% assign words = return %}
-% assign _article = article %}
+{% assign _article = article %}
 <!-- {% assign _article = article | strip_html %} -->
 {% assign _words = _article | size %}
 
