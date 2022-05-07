@@ -18,7 +18,8 @@
       {% assign reading_time = return %}
       <!-- {%- include functions.html func='get_article_excerpt' -%}
       {% assign excerpt = return %} -->
-      (% assign excerpt = article %)
+      
+      {% assign excerpt = article %}
       {%- assign post_url = post.url | relative_url -%}
 
       <h2 class="post-title">
