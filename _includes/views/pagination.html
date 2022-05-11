@@ -19,7 +19,7 @@
       <!-- {%- include functions.html func='get_article_excerpt' -%}
       {% assign excerpt = return %} -->
       
-      {% assign excerpt = article %}
+      {% assign excerpt = post.content %}
       {%- assign post_url = post.url | relative_url -%}
 
       <h2 class="post-title">
@@ -33,7 +33,7 @@
       </div>
       <a class="post-excerpt" href="{{ post_url }}">
         <p>
-        {{ excerpt }} 
+        {{ article }} 
         </p>
       </a>
       <div class="post-tags">
