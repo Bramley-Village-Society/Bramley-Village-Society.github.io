@@ -11,4 +11,3 @@ Every year the Bramley Village Society holds an annual dinner to celebrate our p
 
 Please note that tickets must be bought in advance and places are limited.
 
-Our constitution can be viewed [here]({{ site.url }}{{ site.baseurl }}//assets/constitution/bvsconstitution.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
