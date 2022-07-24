@@ -1,8 +1,7 @@
 ---
 title: 'Ploughmans Lunch'
 subtitle: 
-date: 2022-06-04
-featured_image:  '/images/ploughmans 2014.jpg'
+featured_image:  '/images/ploughmans-2014.jpg'
 ---
 
 ### Saturday 10th September 12:30 - 14:30

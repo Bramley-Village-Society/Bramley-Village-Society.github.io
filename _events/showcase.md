@@ -1,8 +1,7 @@
 ---
 title: 'Showcase'
 subtitle: 
-date: 2018-06-30 00:00:00
-featured_image:  '/images/showcase.jpg'
+featured_image:  '/images/showcase-2015.jpg'
 ---
 
 **Our next Showcase will be in March next year.**
