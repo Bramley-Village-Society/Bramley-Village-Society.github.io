@@ -1,7 +1,7 @@
 ---
 title: 'Showcase'
 subtitle: 
-featured_image:  '/images/showcase-2015.jpg'
+featured_image:  '/images/showcase.jpg'
 ---
 
 **Our next Showcase will be in March next year.**
