@@ -11,3 +11,4 @@ featured_image: '/images/ploughmans.jpg'
 
  If you would like to help us out on the day, [please contact the Village Society]({{ site.url }}{% link _pages/contact.md %}).
 
+![](/images/ploughmans.jpg)
