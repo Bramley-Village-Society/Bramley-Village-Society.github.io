@@ -1,6 +1,6 @@
 ---
 title: 'Showcase'
-subtitle: 
+subtitle: 'Come and meet the loacal clubs, societies, and organisations'
 featured_image:  '/images/showcase.jpg'
 ---
 

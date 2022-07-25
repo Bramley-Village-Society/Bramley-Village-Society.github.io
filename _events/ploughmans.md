@@ -1,6 +1,6 @@
 ---
 title: 'Ploughmans Lunch'
-subtitle: 
+subtitle: 'A simple lunch of cheese, pork pie and salad with a glass of locally produced cider, wine or a soft drink'
 featured_image: '/images/ploughmans.jpg'
 ---
 

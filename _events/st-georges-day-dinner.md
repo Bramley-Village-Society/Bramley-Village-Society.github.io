@@ -1,6 +1,6 @@
 ---
 title: 'St. Georges Day Dinner'
-subtitle: 
+subtitle: Celebrate St. George's Day with a traditional english dinner in the Jolly Farmer
 featured_image: '/images/saint-george.jpg'
 ---
 
