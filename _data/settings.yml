@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'Events'
       url: '/events/'
-    - title: 'Meetings'
+    - title: 'Meetings and Minutes'
       url: '/meetings-and-minutes'
     - title: 'Village Issue List'
       url: '/village-issues'
