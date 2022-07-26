@@ -1,7 +1,7 @@
 ---
 title: 'Ploughmans Lunch'
 subtitle: 'A simple lunch of cheese, pork pie and salad with a glass of locally produced cider, wine or a soft drink'
-featured_image: '/images/ploughmans1.jpg'
+featured_image: '/images/ploughmans.jpg'
 ---
 
 ### Saturday 10th September 12:30 - 14:30
