@@ -16,6 +16,7 @@ More recently there are signs of a lack of attention to our environment, sometim
 If you wish to add, comment on, or update an issue, please [contact us](/contact).
 
 <!-- Start Issue Table -->
+
 |Title|Description|Area|Owner|Status|LastUpdated|Detail|
 |:--|:--|:--|:--|:--|:--|:--|
 |1977 Silver Jubilee Sign|The 1977 Silver Jubilee sign that was in the grassed area in front of Blunden Court has deteriorated badly and needs restoration.|Restoration|BPC|BVS obtaining quotes for restoration|28/07/2022|[detail](https://www.dropbox.com/s/x1bmeasmjek3rs5/Issue%20-%201977%20Silver%20Jubilee%20Sign.pdf?dl=0)|
