@@ -13,6 +13,8 @@ collections:
   events:
     output: true
     permalink: /event/:slug
+  archived-posts:
+    output: false
 
 defaults:
   -
