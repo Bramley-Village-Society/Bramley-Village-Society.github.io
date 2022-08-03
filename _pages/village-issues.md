@@ -18,20 +18,20 @@ If you wish to add, comment on, or update an issue, please [contact us](/contact
 
 <!-- Start Issue Table -->
 
-|Item|Issue|Owner|Status|LastUpdated|Detail|
-|:--|:--|:--|:--|:--|:--|
-|1977 Silver Jubilee Sign|The 1977 Silver Jubilee sign that was in the grassed area in front of Blunden Court has deteriorated badly and needs restoration.|BPC|BVS obtaining quotes for restoration|28/07/2022|[detail]({{ site.url }}/issue-pdfs/Issue-1977-Silver-Jubilee-Sign.pdf )|
-|Alley between Hall and Windrush Close|The alley has several areas where tree roots have raised and broken the surface making it  unsafe, especially at night when it is unlit.|TBD|BVS to determine owner|01/08/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Alley-between-Windrush-Close-and-Vilage-Hall.pdf )|
-|Bench in Rhens Place|Bench slats are badly weathered.|Rhens Twinning Association|Slats being refurbished|30/07/2022||
-|Benches in Roberson's Garden|The slats of both benches in the Roberson's Garden have been badly weathered and need sanding and re-oiling/painting.|TBD|BVS to determine owner|01/08/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Benches-in-Robersons-Garden.pdf )|
-|Flag Poles n front of library|The Flag Poles in grassed area in front of the Library Car Park need cleaning and/or maintenance.|BPC|BVS to check status with BPC|30/07/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Flag-Poles.pdf )|
-|Planting in the Pound|Issue reported at BVS Committee meeting.  |TBD|To be investigated|30/07/2022||
-|Shield on Village Hall entrance|The shield at the entrance to the Village Hall is badly weathered and needs repainting.|TBD|BVS to determine ownership|01/08/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Shield-Entrance-Village-Hall.pdf )|
-|Snowdenham Lane - Dangerous Parking|Over recent years a number of people have taken to parking their cars on the bend on Snowdenham Lane <br/>which severely restricts visibility and is potentially dangerous.  The issue has been raised with Surry County Council in the past.|Surrey Count Council|To be determined|29/07/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Snowdenham-Lane-bend-parking.pdf )|
-|Station Shelter Damage|Vandals have damaged the Railway Station Shelter |BPC (to be confirmed)|Follow up with BPC|29/07/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Station-Shelter.pdf )|
-|Statue in Roberson's Garden|Issue reported at BVS Committee meeting.|TBD|To be investigated|30/07/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Statue-in-Robersons-Garden.pdf )|
-|Village Map by the Station|Issue reported at BVS Committee meeting.|TBD|To be investigated|30/07/2022||
-|Village Map in Front of Library|The Village Map on the grass in front of the Library Car Park is looking shabby.<br/>Perspex needs cleaning and/or replacing and the wooden frame needs attention<br/>|BPC|BVS to check status with BPC|30/07/2022|[detail]({{ site.url }}/issue-pdfs/Issue-Village-map-sign.pdf )|
+| Title | Description | Owner | Area | Status | LastUpdated | Detail | 
+|:----|:----|:----|:----|:----|:----|:----|
+| 1977 Silver Jubilee Sign | The 1977 Silver Jubilee sign that was in the grassed area in front of Blunden Court has deteriorated badly and needs restoration. | BPC | Restoration | BVS obtaining quotes for restoration | 28/07/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-1977-Silver-Jubilee-Sign.pdf ) | 
+| Alley between Hall and Windrush Close | The alley has several areas where tree roots have raised and broken the surface making it  unsafe, especially at night when it is unlit. | TBD | Not set | BVS to determine owner | 01/08/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Alley-between-Windrush-Close-and-Vilage-Hall.pdf ) | 
+| Bench in Rhens Place | Bench slats are badly weathered. | Rhens Twinning Association | Maintenance | Slats being refurbished | 30/07/2022 |  | 
+| Benches in Roberson's Garden | The slats of both benches in the Roberson's Garden have been badly weathered and need sanding and re-oiling/painting. | TBD | Not set | BVS to determine owner | 01/08/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Benches-in-Robersons-Garden.pdf ) | 
+| Flag Poles n front of library | The Flag Poles in grassed area in front of the Library Car Park need cleaning and/or maintenance. | BPC |  | BVS to check status with BPC | 30/07/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Flag-Poles.pdf ) | 
+| Planting in the Pound | Issue reported at BVS Committee meeting.   | TBD |  | To be investigated | 30/07/2022 |  | 
+| Shield on Village Hall entrance | The shield at the entrance to the Village Hall is badly weathered and needs repainting. | TBD | Not set | BVS to determine ownership | 01/08/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Shield-Entrance-Village-Hall.pdf ) | 
+| Snowdenham Lane - Dangerous Parking | Over recent years a number of people have taken to parking their cars on the bend on Snowdenham Lane <br>which severely restricts visibility and is potentially dangerous.  The issue has been raised with Surry County Council in the past. | Surrey Count Council | Highways | To be determined | 29/07/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Snowdenham-Lane-bend-parking.pdf ) | 
+| Station Shelter Damage | Vandals have damaged the Railway Station Shelter  | BPC (to be confirmed) | Vandalism | Follow up with BPC | 29/07/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Station-Shelter.pdf ) | 
+| Statue in Roberson's Garden | Issue reported at BVS Committee meeting. | TBD |  | To be investigated | 30/07/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Statue-in-Robersons-Garden.pdf ) | 
+| Village Map by the Station | Issue reported at BVS Committee meeting. | TBD |  | To be investigated | 30/07/2022 |  | 
+| Village Map in Front of Library | The Village Map on the grass in front of the Library Car Park is looking shabby.<br>Perspex needs cleaning and/or replacing and the wooden frame needs attention<br> | BPC |  | BVS to check status with BPC | 30/07/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Village-map-sign.pdf ) | 
 
 <!-- End Issue Table -->
 
