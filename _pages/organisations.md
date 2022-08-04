@@ -10,8 +10,9 @@ If you're details are incorrect, or you would like to be added or removed from t
 
 <!-- Start Issue Table -->
 
-| 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
+| Organisation | Contact | Email | Website | Phone | 
 |:----|:----|:----|:----|:----|
+| 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
 | 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
 | 1st Wonersh and Bramley Brownies | Sally Johnson |  |  |  898564 | 
 | 1st Wonersh and Bramley Guides | Carol Ramplin | [email](mailto:guides1stwonersh@btinternet.com) |  | 01483 891722 | 
