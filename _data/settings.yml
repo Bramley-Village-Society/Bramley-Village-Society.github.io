@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Bramley Village Society
   site_tagline: Maintining and improving the material and social fabric of Bramley (Surrey)
-  favicon_image:
+  favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image: 
