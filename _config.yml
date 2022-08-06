@@ -14,7 +14,9 @@ collections:
     output: true
     permalink: /event/:slug
   archived-posts:
-    output: false
+    output: true
+    permalink: /archived-post/:slug
+
 
 defaults:
   -

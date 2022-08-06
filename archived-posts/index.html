@@ -1,0 +1,47 @@
+---
+layout: default
+title: Archived Posts
+subtitle: 
+description: 
+featured_image: 
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<h3>{{ page.subtitle }}</h3>
+
+	</div>
+	
+</section>
+
+<section class="portfolio">
+
+	<div class="wrap">
+
+		{% for oldPost in site.archived-posts %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ archived-post.url | relative_url }}">
+
+				<div class="portfolio-item__image" style="background-image: url({{ archived-post.featured_image | relative_url }});"></div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{archived-post.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ archived-post.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
