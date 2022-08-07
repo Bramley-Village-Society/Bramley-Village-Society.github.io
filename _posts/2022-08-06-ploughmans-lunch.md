@@ -10,7 +10,7 @@ subtitle:
 
 <div class="gallery" data-columns="2">
     <img src="{{site.url}}/images/mill-cottage-2.png">
-    <img src="{{site.url}}/images/mill-cottage-4.jpg">
+    <img src="{{site.url}}/images/mill-cottage-4.png">
 </div>
 
  Come and meet your fellow Bramley residents whilst enjoying a simple lunch of bread, cheese, pork pie and salad with a glass of Bramley cider, wine or soft drink.<br>
