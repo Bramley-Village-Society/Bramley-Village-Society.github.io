@@ -9,7 +9,7 @@ subtitle:
 ##### Admission £6 to include lunch and your first drink.  Children age 11 and under free entry. 
 
 <div class="gallery" data-columns="2">
-    <img src="{{site.url}}/images/mill-cottage-2.jpg">
+    <img src="{{site.url}}/images/mill-cottage-2.png">
     <img src="{{site.url}}/images/mill-cottage-4.jpg">
 </div>
 
