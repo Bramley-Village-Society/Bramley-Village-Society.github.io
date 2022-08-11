@@ -5,5 +5,5 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/about.jpg)
+We'll get back to you soon.
 
