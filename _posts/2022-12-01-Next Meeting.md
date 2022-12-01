@@ -11,6 +11,5 @@ All residents are welcome.  Please check tihs website before attending the meeti
 
 We did not hold a meeting in November.
 
-Minutes of October's meeting can be found [here](https://www.dropbox.com/s/n05oj5u0jz2g616/BVS%20Committee%20-%202022%20-%2004%20August.pdf?dl=0)
-
+Minutes of October's meeting can be found [here](https://www.dropbox.com/sh/lwe5w6utg4k8y2r/AADhv7jAzBl7MccQR0Rf8_2Ua?dl=0)
 
