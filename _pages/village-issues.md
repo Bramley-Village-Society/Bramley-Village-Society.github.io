@@ -16,6 +16,10 @@ More recently there are signs of a lack of attention to our environment, sometim
 If you wish to add, comment on, or update an issue, please [contact us](/contact).
 
 
+<script async src="https://cse.google.com/cse.js?cx=4100b1e3e6bc24f65">
+</script>
+<div class="gcse-search"></div>
+
 <!-- Start Issue Table -->
 
 | Title | Description | Owner | Area | Status | LastUpdated | Detail | 
