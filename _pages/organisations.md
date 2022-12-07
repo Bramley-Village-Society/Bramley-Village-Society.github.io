@@ -34,6 +34,7 @@ If you're details are incorrect, or you would like to be added or removed from t
 | Bramley Holy Trinity | Andy Davis | [email](mailto:office@holytrinitybramley.org.uk) | [website](http://www.holytrinitybramley.org.uk/welcome.htm) | 01483 890042 | 
 | Bramley Library Volunteers | Audrey Galloway | [email](mailto:audreygal@aol.com) |  |  | 
 | Bramley Music | Stuart White | [email](mailto:Stuart White <stuartwhite@waitrose.com>) |  | 01483 892645 | 
+| Bramley Oak Academy | Loraine  Crates | [email](mailto:office@bramleyoak.lseat.org.uk) | [website](https://www.bramleyoakacademy.org.uk/) | 01483 663083 | 
 | Bramley Parish Council | Kathy Victor | [email](mailto:bramleyparish@gmail.com) | [website](www.bramleyparish.co.uk) | 01483 894138 | 
 | Bramley Rhens Twinning Group | Eddie Richardson | [email](mailto:eerichardson45@gmail.com) |  | 01483 898440 | 
 | Bramley Swimming | Nina Deal | [email](mailto:alan.deal5@sky.com) |  | 01483 893563 | 
