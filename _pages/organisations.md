@@ -18,7 +18,7 @@ If you're details are incorrect, or you would like to be added or removed from t
 | 1st Wonersh and Bramley Guides | Carol Ramplin | [email](mailto:guides1stwonersh@btinternet.com) |  | 01483 891722 | 
 | 1st Wonersh Scouts | Mathew Kelynack | [email](mailto:scouts@1stwonershscouts.org.uk) | [website](http://www.1stwonershscouts.org.uk/) |  892697; 07834 558760 | 
 | Birtley Lawn Tennis Club | Robin Sharpe | [email](mailto:robin.sharpe@btinternet.com) | [website](http://www.birtleyltc.org.uk/) | 07921 810122 | 
-| Blackheath & Bramley Choral Society  | Trevor Seckel | [email](mailto:chairman.bbcs@hotmail.com) | [website](http://www.bandbcs.org.uk/) | 01306 730564 | 
+| Blackheath & Bramley Choral Society  | Janet Crosthwaite | [email](mailto:chairman.bbcs@hotmail.com) | [website](http://www.bandbcs.org.uk/) | 01483 898245 | 
 | Blunden Court Sheltered Housing unit  |  | [email](mailto:blundencourt@waverley.gov.uk) |  | 01483 893525 | 
 | Bramley & District Probus | Tony Coleman | [email](mailto:tjc66@btinternet.com) | [website](https://probusglobal.org/Clubs/show.php?id=GB-1148) | 01483 898711 | 
 | Bramley Bell Ringers | Richard Seaborne | [email](mailto:richardseaborne@aol.com) |  |  | 
