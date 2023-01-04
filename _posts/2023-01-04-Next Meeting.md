@@ -1,11 +1,11 @@
 ---
 layout: post
 title: January Meeting 
-date: 2022-12-02
+date: 2022-01-04
 subtitle: 
 ---
-
-### Our next meeting is on Thursday 5th January 20:00 in the Village Hall Meeting Room <br><br>
+### We are not holding a meeting this month.<br>
+### Our next meeting is on Thursday 2nd February, 20:00 in the Village Hall Meeting Room <br><br>
 
 All residents are welcome.  Please check this website before attending the meeting in case the meeting is cancelled at short notice.
 
