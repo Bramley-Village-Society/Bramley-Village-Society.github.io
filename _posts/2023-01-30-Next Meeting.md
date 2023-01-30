@@ -11,7 +11,7 @@ All residents are welcome.  Please check this website before attending the meeti
 On the agenda - do join us if you are interested:<br>
 - The **Bramley Showcase** will be in the Village Hall on the evening of Tuesday 28 March.  Please let us know if you wish to be represented.  More details [here](/event/showcase)
 - Our **St George’s Dinner**: As St George's Day(23 April) falls on a Sunday next year, our usual venue (the Jolly Farmer) is not available.  We are investigating an alternative venue. More details [here](/event/st-georges-day-dinner)
-- The **King's Coronation** is on Saturday the 6th May next year, with the following Monday being a bank holiday.  We are considering organising a village wide event – please let us know if you have any ideas.
+- The **King's Coronation** is on Saturday the 6th May, with the following Monday being a bank holiday.  We are considering organising a village wide event – please let us know if you have any ideas.
 
 There was no meeting in January.
 Minutes of December's meeting can be found [here](https://www.dropbox.com/sh/lwe5w6utg4k8y2r/AADhv7jAzBl7MccQR0Rf8_2Ua?dl=0)
