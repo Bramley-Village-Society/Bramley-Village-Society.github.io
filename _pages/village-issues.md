@@ -12,7 +12,6 @@ More recently there are signs of a lack of attention to our environment, sometim
 If you wish to add, comment on, or update an issue, please [contact us](/contact).
 
 <!-- Start Issue Table -->
-[Search the issues list](/search-issues)
 
 | Title | Description | Owner | Area | Status | LastUpdated | Detail | 
 |:----|:----|:----|:----|:----|:----|:----|
