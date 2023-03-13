@@ -34,7 +34,7 @@ If you're details are incorrect, or you would like to be added or removed from t
 | Bramley Library Volunteers | Audrey Galloway | [email](mailto:audreygal@aol.com) |  |  | 
 | Bramley Music | Stuart White | [email](mailto:Stuart White <stuartwhite@waitrose.com>) |  | 01483 892645 | 
 | Bramley Oak Academy | Loraine  Crates | [email](mailto:office@bramleyoak.lseat.org.uk) | [website](https://www.bramleyoakacademy.org.uk/) | 01483 663083 | 
-| Bramley Parish Council | Kathy Victor | [email](mailto:bramleyparish@gmail.com) | [website](www.bramleyparish.co.uk) | 01483 894138 | 
+| Bramley Parish Council | Lindi Jansen van Rensburg | [email](mailto:bramleyparish@gmail.com) | [website](www.bramleyparish.co.uk) | 01483 894138 | 
 | Bramley Rhens Twinning Group | Eddie Richardson | [email](mailto:eerichardson45@gmail.com) |  | 01483 898440 | 
 | Bramley Swimming | Nina Deal | [email](mailto:alan.deal5@sky.com) |  | 01483 893563 | 
 | Bramley Table Tennis Club | Nick Gould | [email](mailto:gould157@btinternet.com) |  | 01483 715586 | 
@@ -44,8 +44,9 @@ If you're details are incorrect, or you would like to be added or removed from t
 | Four Villages Day Centre | Jenny Warner | [email](mailto:manager@fourvillages.co.uk) | [website](http://www.fourvillages.co.uk/) | 01483 894795 | 
 | Grafham & Smithbrook WI | Carol Hudson | [email](mailto:carolmhudson@yahoo.co.uk) |  | 01483 893405 | 
 | Grafham Room (St Andrews) | Helen Mansell | [email](mailto:grafham.room@gmail.com) | [website](http://www.grafhamroom.org/) |  	<br>893040; 07716 025277 | 
+| GuildFordYoga | Luci Phipps | [email](mailto:luci@guildfordyoga.co.uk) | [website](https://guildfordyoga.co.uk) | 07932 712644 | 
 | Holy Trinity Church Choir | Marie Ward | [email](mailto:marie47ward@hotmail.com) |  |  | 
-| Knitwits | Angela Brown | [email](mailto:lotski3@yahoo.co.uk) |  | 01483 890514; 07792 464247 | 
+| Knitwits | Charlotte Ivory | [email](mailto:lotski3@yahoo.co.uk) |  | 01483 890514; 07792 464247 | 
 | Soroptimist International | Alison Cramer | [email](mailto:aecramer003@gmail.com) | [website](https://sigbi.org/surrey-hills/) |  | 
 | St Catherines |  | [email](mailto:schooloffice@stcatherines.info ) | [website](http://www.stcatherines.info/) |  | 
 | StoolBall | Ken Lemon | [email](mailto:ttlemon@hotmail.com) | [website](https://www.stoolball.org.uk/guildford) | 01483  821953 | 
