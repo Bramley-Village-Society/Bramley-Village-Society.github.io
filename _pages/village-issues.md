@@ -17,6 +17,7 @@ If you wish to add, comment on, or update an issue, please [contact us](/contact
 
 | Title | Description | Owner | Area | Status | LastUpdated | Detail |  | 
 |:----|:----|:----|:----|:----|:----|:----|:----|
+| Steps from Snowdenham Lane to Mill Pond | The steps at the top of Snowdenham Lane that lead down to the Mill Pond and Mill Lane have become dangerous.   | TBD | Maintenance | Owner to be determined | 16/03/2023 | [detail]({{ site.url }}/issue-pdfs/Issue- Snowdenham Lane Steps.pdf ) | Issue- Snowdenham Lane Steps.pdf | 
 | 1977 Silver Jubilee Sign | The 1977 Silver Jubilee sign that was in the grassed area in front of Blunden Court has deteriorated badly and needs restoration. | BPC | Restoration | BVS awaiting BPC to transfer the sign ownership to BVS | 01/03/2023 | [detail]({{ site.url }}/issue-pdfs/Issue-1977-Silver-Jubilee-Sign.pdf ) | Issue-1977-Silver-Jubilee-Sign.pdf | 
 | Alley between Hall and Windrush Close | The alley has several areas where tree roots have raised and broken the surface making it  unsafe, especially at night when it is unlit. | TBD | Not set | BVS to determine owner | 01/08/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Alley-between-Windrush-Close-and-Vilage-Hall.pdf ) | Issue-Alley-between-Windrush-Close-and-Vilage-Hall.pdf | 
 | Bench in Rhens Place | Bench slats are badly weathered. | Rhens Twinning Association | Maintenance | Bench has been refurbished | 12/08/2022 | [detail]({{ site.url }}/issue-pdfs/Issue-Bench-in-Rhens-Place.pdf ) | Issue-Bench-in-Rhens-Place.pdf | 
