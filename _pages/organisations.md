@@ -45,12 +45,13 @@ If you're details are incorrect, or you would like to be added or removed from t
 | Four Villages Day Centre | Jenny Warner | [email](mailto:manager@fourvillages.co.uk) | [website](http://www.fourvillages.co.uk/) | 01483 894795 | 
 | Grafham & Smithbrook WI | Carol Hudson | [email](mailto:carolmhudson@yahoo.co.uk) |  | 01483 893405 | 
 | Grafham Room (St Andrews) | Helen Mansell | [email](mailto:grafham.room@gmail.com) | [website](http://www.grafhamroom.org/) |  	<br>893040; 07716 025277 | 
-| GuildFordYoga | Luci Phipps | [email](mailto:luci@guildfordyoga.co.uk) | [website](https://guildfordyoga.co.uk) | 07932 712644 | 
+| GuildfordYoga | Luci Phipps | [email](mailto:luci@guildfordyoga.co.uk) | [website](https://guildfordyoga.co.uk) | 07932 712644 | 
 | Holy Trinity Church Choir | Marie Ward | [email](mailto:marie47ward@hotmail.com) |  |  | 
 | Knitwits | Charlotte Ivory | [email](mailto:lotski3@yahoo.co.uk) |  | 01483 890514; 07792 464247 | 
 | Soroptimist International | Alison Cramer | [email](mailto:aecramer003@gmail.com) | [website](https://sigbi.org/surrey-hills/) |  | 
-| St Catherine's |  | [email](mailto:schooloffice@stcatherines.info ) | [website](http://www.stcatherines.info/) |  | 
+| St. Catherine's |  | [email](mailto:schooloffice@stcatherines.info ) | [website](http://www.stcatherines.info/) |  | 
 | StoolBall | Ken Lemon | [email](mailto:ttlemon@hotmail.com) | [website](https://www.stoolball.org.uk/guildford) | 01483  821953 | 
+| Surrey Hills Forest School (Birtley House) | Lee Davis | [email](mailto:lee@surreyhillsforestschool.co.uk) | [website](https://surreyhillsforestschool.co.uk/) | 07947 993154 | 
 | The Arts Society Guildford Wey Valley | Jackie Ellerton | [email](mailto:jellerton@btinternet.com) |  | 01932 355113 | 
 | Wey & Arun Canal Society. | Sally Schupke | [email](mailto:Sally_Schupke@weyandarun.co.uk) | [website](https://weyarun.org.uk/) |  | 
 | Wonersh and District Garden Club | Graham Payne | [email](mailto:payne.graham@sky.com) |  | 01483 893627 | 
