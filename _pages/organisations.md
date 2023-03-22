@@ -15,8 +15,7 @@ If you're details are incorrect, or you would like to be added or removed from t
 | 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
 | 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
 | 1st Wonersh and Bramley Brownies | Sally Johnson |  |  | 01483 898564 | 
-| 1st Wonersh and Bramley Guides | Carol Ramplin | [email](mailto:guides1stwonersh@btinternet.com) |  | 01483 891722 | 
-| 1st Wonersh Scouts | Mathew Kelynack | [email](mailto:scouts@1stwonershscouts.org.uk) | [website](http://www.1stwonershscouts.org.uk/) | 01483 892697; 07834 558760 | 
+| 1st Wonersh and Bramley Guides | Heather Westmore | [email](mailto:Guides1stwonbram@outlook.com) |  |  | 
 | Birtley Lawn Tennis Club | Robin Sharpe | [email](mailto:robin.sharpe@btinternet.com) | [website](http://www.birtleyltc.org.uk/) | 07921 810122 | 
 | Blackheath & Bramley Choral Society  | Janet Crosthwaite | [email](mailto:chairman.bbcs@hotmail.com) | [website](http://www.bandbcs.org.uk/) | 01483 898245 | 
 | Blunden Court Sheltered Housing unit  |  | [email](mailto:blundencourt@waverley.gov.uk) |  | 01483 893525 | 
@@ -41,7 +40,7 @@ If you're details are incorrect, or you would like to be added or removed from t
 | Bramley Table Tennis Club | Nick Gould | [email](mailto:gould157@btinternet.com) |  | 01483 715586 | 
 | Bramley Wheels | Jo Oakes | [email](mailto:joanneoakes@aol.com) |  | 01483 898558 | 
 | Bramley WI | Judy Baldwin | [email](mailto:judy.wickets@btinternet.com) |  | 01483 892384 | 
-| Brethenesy (choir) | Chris Grimley | [email](mailto:ChrisGrimley1@outlook.com) |  | 01932 651251 | 
+| Brethenesy (choir) | Chris Grimley | [email](mailto:ChrisGrimley1@outlook.com) |  | 07913 651251 | 
 | Four Villages Day Centre | Jenny Warner | [email](mailto:manager@fourvillages.co.uk) | [website](http://www.fourvillages.co.uk/) | 01483 894795 | 
 | Grafham & Smithbrook WI | Carol Hudson | [email](mailto:carolmhudson@yahoo.co.uk) |  | 01483 893405 | 
 | Grafham Room (St Andrews) | Helen Mansell | [email](mailto:grafham.room@gmail.com) | [website](http://www.grafhamroom.org/) |  	<br>893040; 07716 025277 | 
