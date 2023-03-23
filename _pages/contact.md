@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-<div class="gallery" data-columns="6">
+<div class="gallery" data-columns="7">
     <img src="{{site.url}}/images/des.png">
     <img src="{{site.url}}/images/margaret.png">
     <img src="{{site.url}}/images/richard.png">
