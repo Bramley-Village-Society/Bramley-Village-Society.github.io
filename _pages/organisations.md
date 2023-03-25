@@ -12,24 +12,6 @@ If you're details are incorrect, or you would like to be added or removed from t
 
 | Organisation | Contact | Email | Website | Phone | 
 |:----|:----|:----|:----|:----|
-| 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
-| 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
-| 1st Wonersh and Bramley Brownies | Sally Johnson |  |  | 01483 898564 | 
-| 1st Wonersh and Bramley Guides | Heather Westmore | [email](mailto:Guides1stwonbram@outlook.com) |  |  | 
-| Birtley Lawn Tennis Club | Robin Sharpe | [email](mailto:robin.sharpe@btinternet.com) | [website](http://www.birtleyltc.org.uk/) | 07921 810122 | 
-| Blackheath & Bramley Choral Society  | Janet Crosthwaite | [email](mailto:chairman.bbcs@hotmail.com) | [website](http://www.bandbcs.org.uk/) | 01483 898245 | 
-| Blunden Court Sheltered Housing unit  |  | [email](mailto:blundencourt@waverley.gov.uk) |  | 01483 893525 | 
-| Bramley & District Probus | Tony Coleman | [email](mailto:tjc66@btinternet.com) | [website](https://probusglobal.org/Clubs/show.php?id=GB-1148) | 01483 898711 | 
-| Bramley Bees | Hans Weijman | [email](mailto:bramleybees@gmail.com) |  |  | 
-| Bramley Bell Ringers | Brian Kingshott | [email](mailto:brian.kingshott@btinternet.com) |  |  | 
-| Bramley Bonfire & Fireworks | Phil Baker | [email](mailto:philbakerhome@googlemail.com) |  |  | 
-| Bramley C of E (VA) Infant and Nursery School | Max Wheeler-Hayden | [email](mailto:office@bramley.surrey.sch.uk) | [website](http://www.bramley.surrey.sch.uk/) | 01483 892346 | 
-| Bramley Conservatives | Richard Seaborne | [email](mailto:richardseaborne@aol.com) |  |  | 
-| Bramley Cricket Club | Lee Burgess | [email](mailto:leeburgess85@mail.com) | [website](http://bramleycc.cricketclubwebsite.co.uk/) |  | 
-| Bramley Fete | Jane Austin | [email](mailto:janewillpage@gmail.com) |  |  | 
-| Bramley Golf Club | Sarah Bishop | [email](mailto:sarah@bramleygolfclub.co.uk) | [website](http://www.bramleygolfclub.co.uk/) | 01483 892696 | 
-| Bramley Helping Hand | Jane Austin | [email](mailto:bramleyhelpinghand@gmail.com) | [website](https://www.holytrinitybramley.org.uk/564098536968.htm) | 07827 338000 | 
-| Bramley History Society | Pat Pratt | [email](mailto:ericpkp14@gmail.com) | [website](http://www.bramleyhistorysociety.org.uk/) | 01483 893273 | 
 | Bramley Holy Trinity | Andy Davis | [email](mailto:office@holytrinitybramley.org.uk) | [website](http://www.holytrinitybramley.org.uk/welcome.htm) | 01483 890042 | 
 | Bramley Library Volunteers | Audrey Galloway | [email](mailto:audreygal@aol.com) |  |  | 
 | Bramley Music | Stuart White | [email](mailto:stuartwhite@waitrose.com) |  | 01483 892645 | 
@@ -49,12 +31,30 @@ If you're details are incorrect, or you would like to be added or removed from t
 | Knitwits | Charlotte Ivory | [email](mailto:lotski3@yahoo.co.uk) |  | 01483 890514; 07792 464247 | 
 | Soroptimist International | Alison Cramer | [email](mailto:aecramer003@gmail.com) | [website](https://sigbi.org/surrey-hills/) |  | 
 | St. Catherine's |  | [email](mailto:schooloffice@stcatherines.info ) | [website](http://www.stcatherines.info/) |  | 
-| StoolBall | Ken Lemon | [email](mailto:ttlemon@hotmail.com) | [website](https://www.stoolball.org.uk/guildford) | 01483  821953 | 
+| StoolBall | Ken Lemon | [email](mailto:ttlemon@hotmail.com) | [website](https://www.stoolball.org.uk/guildford) | 01483 821953 | 
 | Surrey Hills Forest School (Birtley House) | Lee Davis | [email](mailto:lee@surreyhillsforestschool.co.uk) | [website](https://surreyhillsforestschool.co.uk/) | 07947 993154 | 
-| The Arts Society Guildford Wey Valley | Jackie Ellerton | [email](mailto:jellerton@btinternet.com) |  | 01932 355113 | 
+| The Arts Society Guildford Wey Valley | Kate Gooding | [email](mailto:kg@wagl.biz) | [website](https://tasgwv.org.uk) | 01483 562356 | 
 | Wey & Arun Canal Society. | Sally Schupke | [email](mailto:Sally_Schupke@weyandarun.co.uk) | [website](https://weyarun.org.uk/) |  | 
 | Wonersh and District Garden Club | Graham Payne | [email](mailto:payne.graham@sky.com) |  | 01483 893627 | 
 | Wonersh U3A | Liz Paterson | [email](mailto:lizpaterson@hotmail.com) | [website](https://u3asites.org.uk/wonersh) | 01483 892054 | 
+| 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
+| 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
+| 1st Wonersh and Bramley Brownies | Sally Johnson |  |  | 01483 898564 | 
+| 1st Wonersh and Bramley Guides | Heather Westmore | [email](mailto:Guides1stwonbram@outlook.com) |  |  | 
+| Birtley Lawn Tennis Club | Robin Sharpe | [email](mailto:robin.sharpe@btinternet.com) | [website](http://www.birtleyltc.org.uk/) | 07921 810122 | 
+| Blackheath & Bramley Choral Society  | Janet Crosthwaite | [email](mailto:chairman.bbcs@hotmail.com) | [website](http://www.bandbcs.org.uk/) | 01483 898245 | 
+| Blunden Court Sheltered Housing unit  |  | [email](mailto:blundencourt@waverley.gov.uk) |  | 01483 893525 | 
+| Bramley & District Probus | Tony Coleman | [email](mailto:tjc66@btinternet.com) | [website](https://probusglobal.org/Clubs/show.php?id=GB-1148) | 01483 898711 | 
+| Bramley Bees | Hans Weijman | [email](mailto:bramleybees@gmail.com) |  |  | 
+| Bramley Bell Ringers | Brian Kingshott | [email](mailto:brian.kingshott@btinternet.com) |  |  | 
+| Bramley Bonfire & Fireworks | Phil Baker | [email](mailto:philbakerhome@googlemail.com) |  |  | 
+| Bramley C of E (VA) Infant and Nursery School | Max Wheeler-Hayden | [email](mailto:office@bramley.surrey.sch.uk) | [website](http://www.bramley.surrey.sch.uk/) | 01483 892346 | 
+| Bramley Conservatives | Richard Seaborne | [email](mailto:richardseaborne@aol.com) |  |  | 
+| Bramley Cricket Club | Lee Burgess | [email](mailto:leeburgess85@mail.com) | [website](http://bramleycc.cricketclubwebsite.co.uk/) |  | 
+| Bramley Fete | Jane Austin | [email](mailto:janewillpage@gmail.com) |  |  | 
+| Bramley Golf Club | Sarah Bishop | [email](mailto:sarah@bramleygolfclub.co.uk) | [website](http://www.bramleygolfclub.co.uk/) | 01483 892696 | 
+| Bramley Helping Hand | Jane Austin | [email](mailto:bramleyhelpinghand@gmail.com) | [website](https://www.holytrinitybramley.org.uk/564098536968.htm) | 07827 338000 | 
+| Bramley History Society | Pat Pratt | [email](mailto:ericpkp14@gmail.com) | [website](http://www.bramleyhistorysociety.org.uk/) | 01483 893273 | 
 
 <!-- End Issue Table -->
 
