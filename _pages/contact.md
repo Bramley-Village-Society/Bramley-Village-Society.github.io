@@ -5,12 +5,11 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="8">
     <img src="{{site.url}}/images/des.png">
     <img src="{{site.url}}/images/margaret.png">
     <img src="{{site.url}}/images/richard.png">
-    <img src="{{site.url}}/images/joe.png">></div> 
-<div class="gallery" data-columns="4">
+    <img src="{{site.url}}/images/joe.png">
     <img src="{{site.url}}/images/rosemarie.png">
     <img src="{{site.url}}/images/diane 2.png">
     <img src="{{site.url}}/images/steven.png">   
