@@ -11,9 +11,10 @@ featured_image: /images/demo/demo-portrait.jpg
     <img src="{{site.url}}/images/richard.png">
     <img src="{{site.url}}/images/joe.png">></div> 
 <div class="gallery" data-columns="4">
-    <img src="{{site.url}}/images/steven.png">  
     <img src="{{site.url}}/images/rosemarie.png">
-    <img src="{{site.url}}/images/diane.png"></div>     
+    <img src="{{site.url}}/images/diane.png">
+    <img src="{{site.url}}/images/steven.png">   
+</div>     
 
 You can contact the BVS either by emailing us at [BramleyVillageSociety@gmail.org](mailto:BramleyVillageSociety@gmail.org) or by using the form below.
 
