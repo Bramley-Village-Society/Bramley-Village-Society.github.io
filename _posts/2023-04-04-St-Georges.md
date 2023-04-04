@@ -6,7 +6,7 @@ subtitle:
 ---
 
 ### Sunday 23rd April Village Hall  7.00 for 7.30pm 
-#### The evening will be in support of Bramley Helping Hands and Holy Trinity. ####
+#### The evening is in support of Bramley Helping Hand and Holy Trinity. ####
 
 To celebrate St. George's Day in a traditional manner, the menu will be roast beef followed by apple pie & custard, all freshly cooked by volunteers.  There will also be a vegetarian option.  
 
