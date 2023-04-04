@@ -1,7 +1,7 @@
 ---
 layout: post
 title: St. George's Day Dinner 
-date: 2023-03-29
+date: 2023-04-04
 subtitle: 
 ---
 
@@ -10,7 +10,10 @@ subtitle:
 
 To celebrate St. George's Day in a traditional manner, the menu will be roast beef followed by apple pie & custard, all freshly cooked by volunteers.  There will also be a vegetarian option.  
 
+As we need to know numbers, tickets must be bought or reserved in advance.
 
+Tickets are only £20;  You can reserve tickets using this [form](/sgd-ticket-form).
 
-Tickets are only £20, and are availabe at Robersons, by using our [contact form](/contact), or phoning Joe O'Connell on 01483 894250.
+Tickets are also availabe at Robersons, or by phoning Joe O'Connell on 01483 894250.
+
 

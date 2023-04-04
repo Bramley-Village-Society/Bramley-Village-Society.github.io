@@ -1,0 +1,64 @@
+<div class="sgd-ticket-form">
+
+
+	<form action="{{ site.data.settings.contact_settings.form_action }}" method="POST" enctype="multipart/form-data" id="contact-form">
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Email Address *</label>
+			<input type="email" required  name="email" placeholder="Your email address..." onkeyup="manage(this)" class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Name *</label>
+			<input type="text" required name="name" placeholder="Your name..." onkeyup="manage(this)"  class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Phone/Mobile *</label>
+			<input type="number" required name="phone" placeholder="Your phone/mobile number..." onkeyup="manage(this)"  class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Number of tickets *</label>
+			<input type="number" required min="1" max="10" name="tickets" placeholder="Number of tickets..." onkeyup="manage(this)"  class="contact-form__input">
+		</div>
+		
+		<div class="contact-form__item">
+			<label class="contact-form__label">Vegetarian?</label>
+			<input type="number" min="0" max="10" name="veggies" placeholder="Number of vegetarians..." onkeyup="manage(this)"  class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" id="submit"   class="button button--large">
+		</div>
+
+		<input type="hidden" name="_next" value="{{site.url}}/thanks">
+
+	</form>
+		
+	<script>
+		// Following function 'neutered'
+		function manage(txt) {
+			var bt = document.getElementById('submit');
+			var ele = document.getElementsByTagName('*'); 
+	
+			// Loop through each element.
+			for (i = 0; i < ele.length; i++) {
+	
+				// Check the element type
+				if (ele[i].name == 'name' && ele[i].value == '' ||
+				   (ele[i].name == 'phone' && ele[i].value ) == '' ||
+				   (ele[i].name == 'tickets' && ele[i].value ) == '' ||
+				   (ele[i].name == 'email' && ele[i].value == '')
+				)
+				{
+					bt.disabled = false;    // Disable the button.
+					bt.style.visibility = 'visible'
+					return false;
+				}
+				else {
+					bt.disabled = false;   // Enable the button.
+					bt.style.visibility = 'visible'				}
+			}
+		}    
+	</script>
