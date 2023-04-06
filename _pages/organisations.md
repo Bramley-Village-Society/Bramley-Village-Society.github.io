@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-If you're details are incorrect, or you would like to be added or removed from the list, please [contact us](/contact)
+If you're details are incorrect, or you would like to be added or removed from the list, please [contact us](/contact).
 
 
 <!-- Start Issue Table -->
