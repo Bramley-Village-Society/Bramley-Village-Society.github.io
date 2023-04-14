@@ -8,9 +8,11 @@ subtitle:
 ### Sunday 23rd April Village Hall  7.00 for 7.30pm 
 #### The evening is in support of Bramley Helping Hand and Holy Trinity. ####
 
-To celebrate St. George's Day in a traditional manner, the menu will be roast beef followed by apple pie & custard, all freshly cooked by volunteers.  There will also be a vegetarian option.  
+![](/images/St-George.jpg)
 
-As we need to know numbers, tickets must be bought or reserved in advance.
+To celebrate St. George's Day in a traditional manner, the menu will be roast beef followed by apple pie & custard, all freshly cooked by volunteers.  There will also be a vegetarian option.  Wine, Cider & Soft Drinks will be available.
+  
+We need to know numbers as soon as possible, **ideally by Sunday 16th**. Tickets must be bought or reserved in advance.
 
 Tickets are only £20;  You can reserve tickets using this [form](/sgd-ticket-form).
 
