@@ -8,7 +8,7 @@ subtitle:
 <br>
 
 No street party?  No problem.  Do join us in the Walled Garden at Gosden House School for an afternoon hopefully in the sunshine!  To keep things simple, this is a 'bring your own' food, drink, and something to sit on event.  Please note:  Dogs welcome, but must be kept on a lead.  <br>
-*** We will not cancel the event should the weather be inclement - if in doubt, bring an umbrella! ***
+**We will not cancel the event should the weather be inclement - if in doubt, bring an umbrella!**
 
 #### Directions ####
 
