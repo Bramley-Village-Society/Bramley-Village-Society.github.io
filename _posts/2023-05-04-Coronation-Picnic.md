@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coronation Picnic 
-date: 2023-05-06
+date: 2023-05-04
 subtitle: 
 ---
 ### Sunday 7th May - 12:00 onwards ###
