@@ -1,7 +1,7 @@
 ---
 layout: post
 title: May Meeting 
-date: 2023-04-03
+date: 2023-05-02
 subtitle: 
 ---
 ### Our next meeting is on Thursday 4th May, 20:00 in the Village Hall Meeting Room <br><br>
