@@ -7,7 +7,7 @@ subtitle:
 ### Sunday 7th May  ###
 <br>
 
-#### The Coronation Picnic on the Coronation Sunday was enjoyed by all who attended, and the weather was kind!  Thank you to Gosden House School for the use of the Walled Garden.
+#### The Coronation Picnic on the Coronation Sunday was enjoyed by all who attended, and the weather was kind!  Thank you to Gosden House School for the use of the Walled Garden. 
 
 <br>
 <div class="gallery" data-columns="8">
