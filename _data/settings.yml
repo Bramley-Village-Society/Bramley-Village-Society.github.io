@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Bramley Village Society
-  site_tagline: Maintining and improving the material and social fabric of Bramley (Surrey)
+  site_tagline: Maintaining and improving the material and social fabric of Bramley (Surrey)
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -34,7 +34,7 @@ contact_settings:
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
-  contact_settings1:
+contact_settings1:
   # form_action: 'https://formspree.io/f/xayvrpej'
   form_action: 'https://formsubmit.co/b847fccbfa5672be616834ae958010ee'
   confirmation_url: '/thanks'
