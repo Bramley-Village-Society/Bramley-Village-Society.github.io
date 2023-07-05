@@ -5,8 +5,8 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-If you're details are incorrect, or you would like to be added or removed from the list, please [contact us](/contact).
-You can view a printable list [here]({{ site.url }}/_pages.orgPrintList.pdf).
+If you're details are incorrect, or you would like to be added or removed from the list, please [contact us](/contact).<br>
+You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 
 
 <!-- Start Issue Table -->
