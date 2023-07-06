@@ -54,7 +54,7 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 | The Arts Society Guildford Wey Valley | Kate Gooding | [Email](mailto:kg@wagl.biz) | [Website](https://tasgwv.org.uk) | 01483 562356 | 
 | Wey & Arun Canal Society. | Sally Schupke | [Email](mailto:Sally_Schupke@weyandarun.co.uk) | [Website](https://weyarun.org.uk) |  | 
 | Wonersh and District Garden Club | Hilary Goodridge | [Email](mailto:hilarygoodridge@ymail.com) | [Website](https://www.wonershconnections.org/wonersh-district-gardening-club) | 01483 535108 | 
-| Wonersh History Society | Dennis Cruickshank | [Email](mailto:wonershhistory@gmail.com) | [Website](//www.wonershhistory.co.uk) |  | 
+| Wonersh History Society | Dennis Cruickshank | [Email](mailto:wonershhistory@gmail.com) | <a href="//www.wonershhistory.co.uk">Website</a>|  | 
 | Wonersh U3A | Liz Paterson | [Email](mailto:lizpaterson@hotmail.com) | [Website](https://u3asites.org.uk/wonersh) | 01483 892054 | 
 
 <!-- End Issue Table -->
