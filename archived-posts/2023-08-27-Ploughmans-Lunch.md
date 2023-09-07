@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Ploughmans' Lunch 
+keywords: 
+ - BVS
+ - Ploughmans 
 date: 2023-08-27
 subtitle: 
 ---
