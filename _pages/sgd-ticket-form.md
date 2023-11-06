@@ -5,7 +5,7 @@ description:
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-Do email us at [BramleyVillageSociety@gmail.org](mailto:BramleyVillageSociety@gmail.org) if you have any questions.
+Do email us at [BramleyVillageSociety@gmail.com](mailto:https://formsubmit.co/el/josevi) if you have any questions.
 <br>
 <br>
 
