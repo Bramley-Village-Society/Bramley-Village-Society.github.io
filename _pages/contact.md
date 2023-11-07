@@ -15,7 +15,7 @@ featured_image: /images/demo/demo-portrait.jpg
     <img src="{{site.url}}/images/steven.png">   
 </div>     
 
-You can contact the BVS either by emailing us at [BramleyVillageSociety](mailto:https://formsubmit.co/el/josevi) or by using the form below.
+You can contact the BVS either by emailing us at [BramleyVillageSociety](mailto:BramleyVillageSociety@gmail.com) or by using the form below.
 
 {% include contact-form.html %}
 
