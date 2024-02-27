@@ -42,6 +42,7 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 | Bramley Wheels | Jo Oakes | [Email](mailto:joanneoakes@aol.com) |  | 01483 898558 | 
 | Bramley WI | Judy Baldwin | [Email](mailto:judy.wickets@btinternet.com) |  | 01483 892384 | 
 | Four Villages Day Centre | Jenny Warner | [Email](mailto:manager@fourvillages.co.uk) | [Website](https://www.fourvillages.co.uk) | 01483 894795 | 
+| Friends of St Andrew's and Grafham | Barbara Salvage | [Email](mailto:bjsalvage@btinternet.com) | [Website](https://standrewsgrafham.org.uk/friends-of-st-andrew-s.html) |  | 
 | Grafham & Smithbrook WI | Carol Hudson | [Email](mailto:carolmhudson@yahoo.co.uk) |  | 01483 893405 | 
 | Grafham Room (St Andrews) | Helen Mansell | [Email](mailto:grafham.room@gmail.com) | [Website](https://www.grafhamroom.org) |  	<br>893040; 07716 025277 | 
 | GuildfordYoga | Luci Phipps | [Email](mailto:luci@guildfordyoga.co.uk) | [Website](https://guildfordyoga.co.uk) | 07932 712644 | 
