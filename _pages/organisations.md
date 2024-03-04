@@ -13,6 +13,29 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 
 | Organisation | Contact | [Email](mailto:Email) | [Website](Website) | Phone | 
 |:----|:----|:----|:----|:----|
+| 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
+| 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
+| 1st Wonersh and Bramley Brownies | Sally Johnson |  |  | 01483 898564 | 
+| 1st Wonersh and Bramley Guides | Heather Westmore | [Email](mailto:Guides1stwonbram@outlook.com) |  |  | 
+| Blackheath & Bramley Choral Society  | Janet Crosthwaite | [Email](mailto:chairman.bbcs@hotmail.com) | [Website](https://www.bandbcs.org.uk) | 01483 898245 | 
+| Blunden Court Sheltered Housing unit  |  | [Email](mailto:blundencourt@waverley.gov.uk) |  | 01483 893525 | 
+| Bramley & District Probus | Bob Stern | [Email](mailto:rasfms@yahoo.com) | [Website](https://probusglobal.org/Clubs/show.php?id=GB-1148) |  | 
+| Bramley Bees | Hans Weijman | [Email](mailto:bramleybees@gmail.com) |  |  | 
+| Bramley Bell Ringers | Brian Kingshott | [Email](mailto:brian.kingshott@btinternet.com) |  |  | 
+| Bramley Bonfire & Fireworks | Phil Baker | [Email](mailto:philbakerhome@googlemail.com) |  |  | 
+| Bramley C of E (VA) Infant and Nursery School | Susie Henderson | [Email](mailto:admin@bramley.surrey.sch.uk) | [Website](http://www.bramley.surrey.sch.uk) | 01483 892346 | 
+| Bramley Conservatives | Alison Martin | [Email](mailto:amtillies417@gmail.com>) |  |  | 
+| Bramley Cricket Club | Lee Burgess | [Email](mailto:leeburgess85@mail.com) | [Website](https://bramleycc.cricketclubwebsite.co.uk) |  | 
+| Bramley Fete | Jane Austin | [Email](mailto:janewillpage@gmail.com) |  |  | 
+| Bramley Golf Club | Sarah Bishop | [Email](mailto:sarah@bramleygolfclub.co.uk) | [Website](https://www.bramleygolfclub.co.uk) | 01483 892696 | 
+| Bramley Helping Hand | Jane Austin | [Email](mailto:bramleyhelpinghand@gmail.com) | [Website](https://www.holytrinitybramley.org.uk/564098536968.htm) | 07827 338000 | 
+| Bramley History Society | Pat Pratt | [Email](mailto:ericpkp14@gmail.com) | [Website](https://www.bramleyhistorysociety.org.uk) | 01483 893273 | 
+| Bramley Holy Trinity | Sue Oldrey | [Email](mailto:office@holytrinitybramley.org.uk) | [Website](https://www.holytrinitybramley.org.uk) | 07831 488037 | 
+| Bramley Liberal Democrats | Martin Foley | [Email](mailto:martinjfoley1@gmail.com) |  |  | 
+| Bramley Library Volunteers | Angela Brown | [Email](mailto:bramleylibrary@gmail.com) |  |  | 
+| Bramley Music | Stuart White | [Email](mailto:bramleymusic2012@gmail.com) | [Website](https://www.holytrinitybramley.org.uk/bramleymusic.htm) | 01483 892645 | 
+| Bramley Oak Academy | Loraine  Crates | [Email](mailto:office@bramleyoak.lseat.org.uk) | [Website](https://www.bramleyoakacademy.org.uk) | 01483 663083 | 
+| Bramley Parish Council | Lindi Jansen van Rensburg | [Email](mailto:clerk@bramleyparish.co.uk) | [Website](https://www.bramleyparish.co.uk) | 01483 894138 | 
 | Bramley Rhens Twinning Group | Eddie Richardson | [Email](mailto:eerichardson45@gmail.com) |  | 01483 898440 | 
 | Bramley Swimming | Nina Deal | [Email](mailto:alan.deal5@sky.com) |  | 01483 893563 | 
 | Bramley Table Tennis Club | Nick Gould | [Email](mailto:gould157@btinternet.com) |  | 01483 715586 | 
@@ -34,29 +57,6 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 | Wonersh and District Garden Club | Hilary Goodridge | [Email](mailto:hilarygoodridge@ymail.com) | [Website](https://www.wonershconnections.org/wonersh-district-gardening-club) | 01483 535108 | 
 | Wonersh History Society | Dennis Cruickshank | [Email](mailto:wonershhistory@gmail.com) | [Website](//www.wonershhistory.co.uk) |  | 
 | Wonersh U3A | Liz Paterson | [Email](mailto:lizpaterson@hotmail.com) | [Website](https://u3asites.org.uk/wonersh) | 01483 892054 | 
-| 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
-| 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
-| 1st Wonersh and Bramley Brownies | Sally Johnson |  |  | 01483 898564 | 
-| 1st Wonersh and Bramley Guides | Heather Westmore | [Email](mailto:Guides1stwonbram@outlook.com) |  |  | 
-| Blackheath & Bramley Choral Society  | Janet Crosthwaite | [Email](mailto:chairman.bbcs@hotmail.com) | [Website](https://www.bandbcs.org.uk) | 01483 898245 | 
-| Blunden Court Sheltered Housing unit  |  | [Email](mailto:blundencourt@waverley.gov.uk) |  | 01483 893525 | 
-| Bramley & District Probus | Tony Coleman | [Email](mailto:tjc66@btinternet.com) | [Website](https://probusglobal.org/Clubs/show.php?id=GB-1148) | 01483 898711 | 
-| Bramley Bees | Hans Weijman | [Email](mailto:bramleybees@gmail.com) |  |  | 
-| Bramley Bell Ringers | Brian Kingshott | [Email](mailto:brian.kingshott@btinternet.com) |  |  | 
-| Bramley Bonfire & Fireworks | Phil Baker | [Email](mailto:philbakerhome@googlemail.com) |  |  | 
-| Bramley C of E (VA) Infant and Nursery School | Susie Henderson | [Email](mailto:admin@bramley.surrey.sch.uk) | [Website](http://www.bramley.surrey.sch.uk) | 01483 892346 | 
-| Bramley Conservatives | Alison Martin | [Email](mailto:amtillies417@gmail.com>) |  |  | 
-| Bramley Cricket Club | Lee Burgess | [Email](mailto:leeburgess85@mail.com) | [Website](https://bramleycc.cricketclubwebsite.co.uk) |  | 
-| Bramley Fete | Jane Austin | [Email](mailto:janewillpage@gmail.com) |  |  | 
-| Bramley Golf Club | Sarah Bishop | [Email](mailto:sarah@bramleygolfclub.co.uk) | [Website](https://www.bramleygolfclub.co.uk) | 01483 892696 | 
-| Bramley Helping Hand | Jane Austin | [Email](mailto:bramleyhelpinghand@gmail.com) | [Website](https://www.holytrinitybramley.org.uk/564098536968.htm) | 07827 338000 | 
-| Bramley History Society | Pat Pratt | [Email](mailto:ericpkp14@gmail.com) | [Website](https://www.bramleyhistorysociety.org.uk) | 01483 893273 | 
-| Bramley Holy Trinity | Sue Oldrey | [Email](mailto:office@holytrinitybramley.org.uk) | [Website](https://www.holytrinitybramley.org.uk) | 07831 488037 | 
-| Bramley Liberal Democrats | Martin Foley | [Email](mailto:martinjfoley1@gmail.com) |  |  | 
-| Bramley Library Volunteers | Angela Brown | [Email](mailto:bramleylibrary@gmail.com) |  |  | 
-| Bramley Music | Stuart White | [Email](mailto:bramleymusic2012@gmail.com) | [Website](https://www.holytrinitybramley.org.uk/bramleymusic.htm) | 01483 892645 | 
-| Bramley Oak Academy | Loraine  Crates | [Email](mailto:office@bramleyoak.lseat.org.uk) | [Website](https://www.bramleyoakacademy.org.uk) | 01483 663083 | 
-| Bramley Parish Council | Lindi Jansen van Rensburg | [Email](mailto:clerk@bramleyparish.co.uk) | [Website](https://www.bramleyparish.co.uk) | 01483 894138 | 
 
 <!-- End Issue Table -->
 
