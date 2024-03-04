@@ -13,6 +13,27 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 
 | Organisation | Contact | [Email](mailto:Email) | [Website](Website) | Phone | 
 |:----|:----|:----|:----|:----|
+| Bramley Rhens Twinning Group | Eddie Richardson | [Email](mailto:eerichardson45@gmail.com) |  | 01483 898440 | 
+| Bramley Swimming | Nina Deal | [Email](mailto:alan.deal5@sky.com) |  | 01483 893563 | 
+| Bramley Table Tennis Club | Nick Gould | [Email](mailto:gould157@btinternet.com) |  | 01483 715586 | 
+| Bramley Wheels | Jo Oakes | [Email](mailto:joanneoakes@aol.com) |  | 01483 898558 | 
+| Bramley WI | Judy Baldwin | [Email](mailto:judy.wickets@btinternet.com) |  | 01483 892384 | 
+| Four Villages Day Centre | Jenny Warner | [Email](mailto:manager@fourvillages.co.uk) | [Website](https://www.fourvillages.co.uk) | 01483 894795 | 
+| Friends of St Andrew's and Grafham | Barbara Salvage | [Email](mailto:bjsalvage@btinternet.com) | [Website](https://standrewsgrafham.org.uk/friends-of-st-andrew-s.html) |  | 
+| Grafham & Smithbrook WI | Jill Bryant | [Email](mailto:bjillbryant@gmail.com) |  |  | 
+| Grafham Room (St Andrews) | Helen Mansell | [Email](mailto:grafham.room@gmail.com) | [Website](https://www.grafhamroom.org) |  	<br>893040; 07716 025277 | 
+| GuildfordYoga | Luci Phipps | [Email](mailto:luci@guildfordyoga.co.uk) | [Website](https://guildfordyoga.co.uk) | 07932 712644 | 
+| Holy Trinity Church Choir | Marie Ward | [Email](mailto:marie47ward@hotmail.com) |  |  | 
+| Knitwits | Charlotte Ivory | [Email](mailto:lotski3@yahoo.co.uk) |  | 01483 890514; 07792 464247 | 
+| Soroptimist International | Alison Cramer | [Email](mailto:aecramer003@gmail.com) | [Website](https://sigbi.org/surrey-hills) |  | 
+| St. Catherine's |  | [Email](mailto:schooloffice@stcatherines.info ) | [Website](https://www.stcatherines.info) |  | 
+| StoolBall | Ken Lemon | [Email](mailto:ttlemon@hotmail.com) | [Website](https://www.stoolball.org.uk/guildford) | 01483 821953 | 
+| Surrey Hills Forest School (Birtley House) | Lee Davis | [Email](mailto:lee@surreyhillsforestschool.co.uk) | [Website](https://surreyhillsforestschool.co.uk) | 07947 993154 | 
+| The Arts Society Guildford Wey Valley | Kate Gooding | [Email](mailto:kg@wagl.biz) | [Website](https://tasgwv.org.uk) | 01483 562356 | 
+| Wey & Arun Canal Society. |  | [Email](mailto:northernoffice@weyandarun.co.uk) | [Website](https://weyarun.org.uk) |  | 
+| Wonersh and District Garden Club | Hilary Goodridge | [Email](mailto:hilarygoodridge@ymail.com) | [Website](https://www.wonershconnections.org/wonersh-district-gardening-club) | 01483 535108 | 
+| Wonersh History Society | Dennis Cruickshank | [Email](mailto:wonershhistory@gmail.com) | [Website](//www.wonershhistory.co.uk) |  | 
+| Wonersh U3A | Liz Paterson | [Email](mailto:lizpaterson@hotmail.com) | [Website](https://u3asites.org.uk/wonersh) | 01483 892054 | 
 | 1st Bramley Brownies | Suzanne Maugham |  |  | 07816 605937 | 
 | 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
 | 1st Wonersh and Bramley Brownies | Sally Johnson |  |  | 01483 898564 | 
@@ -32,31 +53,10 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 | Bramley History Society | Pat Pratt | [Email](mailto:ericpkp14@gmail.com) | [Website](https://www.bramleyhistorysociety.org.uk) | 01483 893273 | 
 | Bramley Holy Trinity | Sue Oldrey | [Email](mailto:office@holytrinitybramley.org.uk) | [Website](https://www.holytrinitybramley.org.uk) | 07831 488037 | 
 | Bramley Liberal Democrats | Martin Foley | [Email](mailto:martinjfoley1@gmail.com) |  |  | 
-| Bramley Library Volunteers | Angela Brown | [Email](mailto:Bramley Library bramleylibrary@gmail.com) |  |  | 
+| Bramley Library Volunteers | Angela Brown | [Email](mailto:bramleylibrary@gmail.com) |  |  | 
 | Bramley Music | Stuart White | [Email](mailto:bramleymusic2012@gmail.com) | [Website](https://www.holytrinitybramley.org.uk/bramleymusic.htm) | 01483 892645 | 
 | Bramley Oak Academy | Loraine  Crates | [Email](mailto:office@bramleyoak.lseat.org.uk) | [Website](https://www.bramleyoakacademy.org.uk) | 01483 663083 | 
 | Bramley Parish Council | Lindi Jansen van Rensburg | [Email](mailto:clerk@bramleyparish.co.uk) | [Website](https://www.bramleyparish.co.uk) | 01483 894138 | 
-| Bramley Rhens Twinning Group | Eddie Richardson | [Email](mailto:eerichardson45@gmail.com) |  | 01483 898440 | 
-| Bramley Swimming | Nina Deal | [Email](mailto:alan.deal5@sky.com) |  | 01483 893563 | 
-| Bramley Table Tennis Club | Nick Gould | [Email](mailto:gould157@btinternet.com) |  | 01483 715586 | 
-| Bramley Wheels | Jo Oakes | [Email](mailto:joanneoakes@aol.com) |  | 01483 898558 | 
-| Bramley WI | Judy Baldwin | [Email](mailto:judy.wickets@btinternet.com) |  | 01483 892384 | 
-| Four Villages Day Centre | Jenny Warner | [Email](mailto:manager@fourvillages.co.uk) | [Website](https://www.fourvillages.co.uk) | 01483 894795 | 
-| Friends of St Andrew's and Grafham | Barbara Salvage | [Email](mailto:bjsalvage@btinternet.com) | [Website](https://standrewsgrafham.org.uk/friends-of-st-andrew-s.html) |  | 
-| Grafham & Smithbrook WI | Carol Hudson | [Email](mailto:carolmhudson@yahoo.co.uk) |  | 01483 893405 | 
-| Grafham Room (St Andrews) | Helen Mansell | [Email](mailto:grafham.room@gmail.com) | [Website](https://www.grafhamroom.org) |  	<br>893040; 07716 025277 | 
-| GuildfordYoga | Luci Phipps | [Email](mailto:luci@guildfordyoga.co.uk) | [Website](https://guildfordyoga.co.uk) | 07932 712644 | 
-| Holy Trinity Church Choir | Marie Ward | [Email](mailto:marie47ward@hotmail.com) |  |  | 
-| Knitwits | Charlotte Ivory | [Email](mailto:lotski3@yahoo.co.uk) |  | 01483 890514; 07792 464247 | 
-| Soroptimist International | Alison Cramer | [Email](mailto:aecramer003@gmail.com) | [Website](https://sigbi.org/surrey-hills) |  | 
-| St. Catherine's |  | [Email](mailto:schooloffice@stcatherines.info ) | [Website](https://www.stcatherines.info) |  | 
-| StoolBall | Ken Lemon | [Email](mailto:ttlemon@hotmail.com) | [Website](https://www.stoolball.org.uk/guildford) | 01483 821953 | 
-| Surrey Hills Forest School (Birtley House) | Lee Davis | [Email](mailto:lee@surreyhillsforestschool.co.uk) | [Website](https://surreyhillsforestschool.co.uk) | 07947 993154 | 
-| The Arts Society Guildford Wey Valley | Kate Gooding | [Email](mailto:kg@wagl.biz) | [Website](https://tasgwv.org.uk) | 01483 562356 | 
-| Wey & Arun Canal Society. |  | [Email](mailto:northernoffice@weyandarun.co.uk) | [Website](https://weyarun.org.uk) |  | 
-| Wonersh and District Garden Club | Hilary Goodridge | [Email](mailto:hilarygoodridge@ymail.com) | [Website](https://www.wonershconnections.org/wonersh-district-gardening-club) | 01483 535108 | 
-| Wonersh History Society | Dennis Cruickshank | [Email](mailto:wonershhistory@gmail.com) | [Website](//www.wonershhistory.co.uk) |  | 
-| Wonersh U3A | Liz Paterson | [Email](mailto:lizpaterson@hotmail.com) | [Website](https://u3asites.org.uk/wonersh) | 01483 892054 | 
 
 <!-- End Issue Table -->
 
