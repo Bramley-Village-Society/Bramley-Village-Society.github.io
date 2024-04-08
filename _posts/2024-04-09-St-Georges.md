@@ -5,4 +5,4 @@ date: 2024-04-08
 subtitle: 
 ---
 
-### Plesse scroll down to see details of our St. George's Day Dinner.
+### Please scroll down to see details of our St. George's Day Dinner.
