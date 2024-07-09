@@ -28,7 +28,6 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  # form_action: 'https://formspree.io/f/xayvrpej'
   form_action: 'https://formsubmit.co/b847fccbfa5672be616834ae958010ee'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
