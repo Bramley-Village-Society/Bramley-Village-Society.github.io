@@ -17,6 +17,7 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 | 1st Wey and Arun Rainbows | Rachel Holmes |  |  | 01483 890145 | 
 | 1st Wonersh and Bramley Brownies | Sally Johnson |  |  | 01483 898564 | 
 | 1st Wonersh and Bramley Guides | Heather Westmore | [Email](mailto:Guides1stwonbram@outlook.com) |  |  | 
+| Birtley Lawn Tennis Club | Robin Sharpe | [Email](mailto:robin.sharpe@btinternet.com) | [Website](https://www.birtleyltc.org.uk) | 07921 810122 | 
 | Blackheath & Bramley Choral Society  | Janet Crosthwaite | [Email](mailto:chairman.bbcs@hotmail.com) | [Website](https://www.bandbcs.org.uk) | 01483 898245 | 
 | Blunden Court Sheltered Housing unit  |  | [Email](mailto:blundencourt@waverley.gov.uk) |  | 01483 893525 | 
 | Bramley & District Probus | Bob Stern | [Email](mailto:rasfms@yahoo.com) | [Website](https://probusglobal.org/Clubs/show.php?id=GB-1148) |  | 
@@ -35,16 +36,15 @@ You can view a printable list [here]({{ site.url }}/orgPrintList.pdf).
 | Bramley Library Volunteers | Angela Brown | [Email](mailto:bramleylibrary@gmail.com) |  |  | 
 | Bramley Music | Stuart White | [Email](mailto:bramleymusic2012@gmail.com) | [Website](https://www.holytrinitybramley.org.uk/bramleymusic.htm) | 01483 892645 | 
 | Bramley Oak Academy | Loraine  Crates | [Email](mailto:office@bramleyoak.lseat.org.uk) | [Website](https://www.bramleyoakacademy.org.uk) | 01483 663083 | 
-| Bramley Parish Council | Lindi Jansen van Rensburg | [Email](mailto:clerk@bramleyparish.co.uk) | [Website](https://www.bramleyparish.co.uk) | 01483 894138 | 
+| Bramley Parish Council | Debbi Ersser | [Email](mailto:clerk@bramleyparish.co.uk) | [Website](https://www.bramleyparish.co.uk) | 07795 684192 | 
 | Bramley Rhens Twinning Group | Eddie Richardson | [Email](mailto:eerichardson45@gmail.com) |  | 01483 898440 | 
 | Bramley Swimming | Nina Deal | [Email](mailto:alan.deal5@sky.com) |  | 01483 893563 | 
-| Bramley Table Tennis Club | Nick Gould | [Email](mailto:gould157@btinternet.com) |  | 01483 715586 | 
 | Bramley Wheels | Jo Oakes | [Email](mailto:joanneoakes@aol.com) |  | 01483 898558 | 
 | Bramley WI | Judy Baldwin | [Email](mailto:judy.wickets@btinternet.com) |  | 01483 892384 | 
 | Four Villages Day Centre | Jenny Warner | [Email](mailto:manager@fourvillages.co.uk) | [Website](https://www.fourvillages.co.uk) | 01483 894795 | 
 | Friends of St Andrew's and Grafham | Barbara Salvage | [Email](mailto:bjsalvage@btinternet.com) | [Website](https://standrewsgrafham.org.uk/friends-of-st-andrew-s.html) |  | 
 | Grafham & Smithbrook WI | Jill Bryant | [Email](mailto:bjillbryant@gmail.com) |  |  | 
-| Grafham Room (St Andrews) | Helen Mansell | [Email](mailto:grafham.room@gmail.com) | [Website](https://www.grafhamroom.org) |  	<br>893040; 07716 025277 | 
+| Grafham Room (St Andrews) | Helen Mansell | [Email](mailto:grafham.room@gmail.com) | [Website](https://www.grafhamroom.org) | 07716 025277 | 
 | GuildfordYoga | Luci Phipps | [Email](mailto:luci@guildfordyoga.co.uk) | [Website](https://guildfordyoga.co.uk) | 07932 712644 | 
 | Holy Trinity Church Choir | Marie Ward | [Email](mailto:marie47ward@hotmail.com) |  |  | 
 | Knitwits | Charlotte Ivory | [Email](mailto:lotski3@yahoo.co.uk) |  | 01483 890514; 07792 464247 | 
