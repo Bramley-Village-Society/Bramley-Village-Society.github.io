@@ -9,7 +9,6 @@ featured_image: /images/demo/demo-portrait.jpg
     <img src="{{site.url}}/images/des.png">
     <img src="{{site.url}}/images/margaret.png">
     <img src="{{site.url}}/images/richard.png">
-    <img src="{{site.url}}/images/joe.png">
     <img src="{{site.url}}/images/rosemarie.png">
     <img src="{{site.url}}/images/diane 2.png">
     <img src="{{site.url}}/images/steven.png">   
