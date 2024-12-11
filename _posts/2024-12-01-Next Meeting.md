@@ -1,7 +1,7 @@
 ---
 title: 'Next Meeting'
 subtitle: 
-date: 2024-09-02
+date: 2024-12-01
 featured_image: 
 ---
 
