@@ -6,7 +6,7 @@ featured_image:  '/images/showcase.jpg'
 
 **Our next Showcase is on the 1st April at 20:00 in the Village Hall.**
 
-<img src="{{site.url}}/images/showcase flyer 2025.png" />
+<img src="{{site.url}}/images/Showcase flyer 2025.png" />
 
 The local clubs, societies and voluntary organisations are an important part of what makes Bramley such a vibrant community. Not only do they provide recreational and social facilities, they also enable residents to meet with like-minded others.
 
