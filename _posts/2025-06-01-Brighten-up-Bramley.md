@@ -5,4 +5,6 @@ date: 2025-06-01
 featured_image: 
 ---
 
-Volunteer sessions are planned for every Sunday in July meeting at 11am in the Library car park.
+Saturday 15th November, meeting at Gosden Common at 2pm to plant the final daffodil bulbs.
+
+Join us with a spade and some gloves!
